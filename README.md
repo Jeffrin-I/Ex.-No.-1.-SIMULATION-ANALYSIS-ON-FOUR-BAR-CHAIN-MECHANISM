@@ -58,7 +58,10 @@
 ## Output:
 <img width="1917" height="1011" alt="Screenshot 2026-03-10 222244" src="https://github.com/user-attachments/assets/f74991e0-d2d1-44e9-b0d6-60c17088e834" />
 
+
 <img width="1913" height="1013" alt="Screenshot 2026-03-10 221847" src="https://github.com/user-attachments/assets/c93e11f4-3804-4a99-a9c7-19484fcbc55c" />
+
+
 
 
 ### Name: JEFFRIN I
