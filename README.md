@@ -20,21 +20,22 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+### 1. Draw a horizontal line AD of length 120 mm.
+### 2. At A, draw a line AB of length 30 mm at an angle of 60° with AD.
+### 3. With B as centre, draw an arc of radius BC = 120 mm.
+### 4. With D as centre, draw another arc of radius CD = 60 mm cutting the previous arc at point C.
+### 5. Join BC and CD to complete the four-bar chain ABCD. 
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
-###   This value of VBA is used to decide the scale for the velocity diagram 
-###   Let us construct the velocity diagram taking a scale: 
-###   0.3141 m/s = 60 mm (say) 
-###   1. The fixed link AD, appears as a point in the velocity diagram 
-###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction) 
-###   3. From b, draw vector bc perpendicular to BC
-###   4. From (a,d), draw vector cd perpendicular to CD. This will intersect the previous vector at c.  
+### The velocity of point B with respect to A (VBA) is used to determine the scale for the velocity diagram.
+### Assume the scale for the velocity diagram as:
+### 0.3141 m/s = 60 mm (assumed)
+
+### 1. Since link AD is fixed, it is represented by a single point (a,d) in the velocity diagram.
+### 2. From point a, draw a vector ab = 60 mm perpendicular to link AB in the configuration diagram and along the direction of motion (downward).
+### 3. From point b, draw a line perpendicular to BC to represent the velocity of point C relative to B.
+### 4. From point (a,d), draw another line perpendicular to CD. The intersection of this line with the previous one gives point c.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/76094ae8-a8af-48f3-b2c4-472ab800cc8e)
 
