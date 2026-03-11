@@ -20,11 +20,13 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-### 1. Draw a horizontal line AD of length 120 mm.
-### 2. At A, draw a line AB of length 30 mm at an angle of 60° with AD.
-### 3. With B as centre, draw an arc of radius BC = 120 mm.
-### 4. With D as centre, draw another arc of radius CD = 60 mm cutting the previous arc at point C.
-### 5. Join BC and CD to complete the four-bar chain ABCD. 
+### 1. Draw a horizontal line AD of length 120 mm to represent the fixed link.
+### 2. Mark point A and construct line AB of length 30 mm.
+### 3. Ensure that line AB makes an angle of 60° with AD.
+### 4. Take point B as the centre and draw an arc with radius 120 mm to locate point C.
+### 5. Take point D as the centre and draw another arc with radius 60 mm.
+### 6. Mark the intersection of the two arcs as point C.
+### 7. Join points B–C and C–D to obtain the four-bar chain mechanism ABCD.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
